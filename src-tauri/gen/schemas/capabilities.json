@@ -1,0 +1,1 @@
+{"main-capability":{"identifier":"main-capability","description":"Allow core window access for the frontend","local":true,"windows":["main"],"permissions":["core:default","core:window:allow-show","core:window:allow-set-title"]}}
